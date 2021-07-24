@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>_7._0_CSharpFeature</RootNamespace>
+    <StartupObject>_7._0_CSharpFeature.PatternMatching</StartupObject>
+  </PropertyGroup>
+
+</Project>
